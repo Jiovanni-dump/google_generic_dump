@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2023 Google LLC. All Rights Reserved.
+  -->
+<permissions>
+    <!-- The following corresponds to PackageManager.FEATURE_DEVICE_LOCK -->
+    <feature name="android.software.device_lock" />
+    <!-- Permission allowlist for device lock controller -->
+    <privapp-permissions package="com.google.android.devicelockcontroller">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.INSTALL_PACKAGES"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.permission.MASTER_CLEAR"/>
+        <permission name="com.android.permission.INSTALL_EXISTING_PACKAGES"/>
+    </privapp-permissions>
+</permissions>
