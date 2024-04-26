@@ -1,0 +1,7 @@
+system/system/product/priv-app/Velvet/Velvet.apk.xz
+system/system/product/priv-app/PrebuiltGmsCore/PrebuiltGmsCore.apk.xz
+system/system/product/app/PrebuiltGmail/PrebuiltGmail.apk.xz
+system/system/product/app/Photos/Photos.apk.xz
+system/system/product/app/YouTube/YouTube.apk.xz
+system/system/system_ext/apex/com.android.vndk.v30.apex.xz
+system/system/system_ext/apex/com.android.vndk.v29.apex.xz

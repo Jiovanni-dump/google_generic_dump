@@ -1,0 +1,14 @@
+# gsi_gms_arm64-user 14 UQ1A.231205.015 11084887 release-keys
+- manufacturer: google
+- platform: 
+- codename: generic
+- flavor: gsi_gms_arm64-user
+- release: 14
+- id: UQ1A.231205.015
+- incremental: 11084887
+- tags: release-keys
+- fingerprint: google/gsi_gms_arm64/gsi_arm64:14/UQ1A.231205.015/11084887:user/release-keys
+- is_ab: false
+- brand: google
+- branch: gsi_gms_arm64-user-14-UQ1A.231205.015-11084887-release-keys
+- repo: google_generic_dump
