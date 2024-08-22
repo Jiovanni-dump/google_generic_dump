@@ -1,0 +1,14 @@
+# gsi_gms_arm64-user 15 AP41.240726.009 12231213 release-keys
+- manufacturer: google
+- platform: 
+- codename: generic
+- flavor: gsi_gms_arm64-user
+- release: 15
+- id: AP41.240726.009
+- incremental: 12231213
+- tags: release-keys
+- fingerprint: google/gsi_gms_arm64/gsi_arm64:15/AP41.240726.009/12231213:user/release-keys
+- is_ab: false
+- brand: google
+- branch: gsi_gms_arm64-user-15-AP41.240726.009-12231213-release-keys
+- repo: google_generic_dump
